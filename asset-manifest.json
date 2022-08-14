@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/gif-portal/static/css/main.65766d0e.css",
-    "main.js": "/gif-portal/static/js/main.d8c41d9f.js",
+    "main.js": "/gif-portal/static/js/main.8531ecbf.js",
     "static/js/90.3b34d374.chunk.js": "/gif-portal/static/js/90.3b34d374.chunk.js",
     "static/js/787.b0b39151.chunk.js": "/gif-portal/static/js/787.b0b39151.chunk.js",
     "static/media/twitter-logo.svg": "/gif-portal/static/media/twitter-logo.d89d9a86ae1051fd6dd2db222532cd2b.svg",
     "static/media/logo.svg": "/gif-portal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/gif-portal/index.html",
     "main.65766d0e.css.map": "/gif-portal/static/css/main.65766d0e.css.map",
-    "main.d8c41d9f.js.map": "/gif-portal/static/js/main.d8c41d9f.js.map",
+    "main.8531ecbf.js.map": "/gif-portal/static/js/main.8531ecbf.js.map",
     "90.3b34d374.chunk.js.map": "/gif-portal/static/js/90.3b34d374.chunk.js.map",
     "787.b0b39151.chunk.js.map": "/gif-portal/static/js/787.b0b39151.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65766d0e.css",
-    "static/js/main.d8c41d9f.js"
+    "static/js/main.8531ecbf.js"
   ]
 }
